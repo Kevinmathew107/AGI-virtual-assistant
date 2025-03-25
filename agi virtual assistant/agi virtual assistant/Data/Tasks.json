@@ -1,0 +1,94 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","start","launch","visit"],
+            "responses":["open"]
+        },
+        {
+            "tag": "google_search",
+            "patterns": ["google search", "search for", "look for","google"],
+            "responses": ["searching on Google..."]
+        }, 
+        {
+            "tag": "youtube_search",
+            "patterns": ["youtube search", "search on youtube", "youtube"],
+            "responses": ["searching on youtube..."]
+        },
+        {
+            "tag":"whatsapp_voice_call",
+            "patterns":["voice call","whatsapp voice call","voice call to","whatsapp voice call to"],
+            "responses":["Making a voice call..."]
+        },
+        {
+            "tag":"whatsapp_video_call",
+            "patterns":["video call","whatsapp video call","video call to","whatsapp video call to"],
+            "responses":["Making a video call..."]
+        },
+        {
+            "tag": "show_whatsapp_chat",
+            "patterns": ["show whatsapp chat", "open whatsapp chat","show chat","whatsapp chat"],
+            "responses": ["Whose chat would you like to see?"]
+        },
+        {
+            "tag": "set_alarm",
+            "patterns": ["set alarm","set alarm for", "alarm", "set a reminder"],
+            "responses": ["At what time would you like to set the alarm?"]
+        },
+        {
+            "tag": "youtube_download",
+            "patterns": ["download video from youtube", "youtube download", "youtube video download","download this video"],
+            "responses": ["What is the link of the YouTube video you want to download?"]
+        },
+        {
+            "tag": "chrome_automation",
+            "patterns": ["automate task in chrome", "chrome automation", "automate chrome browser"],
+            "responses": ["What would you like to automate in Google Chrome? You can choose from: opening a new tab, closing a tab, opening a new window, accessing history, managing downloads, managing bookmarks, switching to incognito mode, or switching tabs."]
+        },
+        {
+            "tag": "new_tab",
+            "patterns": ["open new tab in chrome", "chrome new tab"],
+            "responses": ["Sure, opening a new tab in Google Chrome. Please hold on."]
+        },
+        {
+            "tag": "close_tab",
+            "patterns": ["close tab in chrome", "chrome close tab"],
+            "responses": ["Okay, closing the current tab in Google Chrome. Please hold on."]
+        },
+        {
+            "tag": "new_window",
+            "patterns": ["open new window in chrome", "chrome new window"],
+            "responses": ["Sure, opening a new window in Google Chrome. Please hold on."]
+        },
+        {
+            "tag": "history",
+            "patterns": ["access history in chrome", "chrome history"],
+            "responses": ["Okay, accessing history in Google Chrome. Please hold on."]
+        },
+        {
+            "tag": "downloads",
+            "patterns": ["manage downloads in chrome", "chrome downloads"],
+            "responses": ["Sure, managing downloads in Google Chrome. Please hold on."]
+        },
+        {
+            "tag": "bookmarks",
+            "patterns": ["manage bookmarks in chrome", "chrome bookmarks"],
+            "responses": ["Okay, managing bookmarks in Google Chrome. Please hold on."]
+        },
+        {
+            "tag": "incognito",
+            "patterns": ["switch to incognito mode in chrome", "chrome incognito"],
+            "responses": ["Sure, switching to incognito mode in Google Chrome. Please hold on."]
+        },
+        {
+            "tag": "switch_tab",
+            "patterns": ["switch tab in chrome", "chrome switch tab"],
+            "responses": ["Okay, switching to another tab in Google Chrome. Please hold on."]
+        },                
+        {
+            "tag":"send",
+            "patterns":["send","message","send whatsapp","send whatsapp message to"],
+            "responses":["Who do you want to send the message to?"]
+        }
+    ]
+}

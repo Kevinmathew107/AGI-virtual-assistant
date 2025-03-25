@@ -1,0 +1,99 @@
+You : Hello, How are you? 
+Jarvis : I'm doing well, thank you. How can I help you?
+You : hello jarves 
+Jarvis : Hello! How can I help you?
+You : What are you doing 
+Jarvis : I'm here to help you with whatever you need.
+You : what is the capital of india 
+Jarvis : The capital of India is New Delhi.
+You : remember my name is shivam 
+Jarvis : Got it, your name is Shivam. Is there anything else I can help you with?
+You :  
+Jarvis : Is there anything else I can help you with?
+You : remember what is the name of my friend who lives in padra vinay 
+Jarvis : Got it, your friend who lives in Padra Vinay is named. Is there anything else I can help you with?
+You : Vinay ne kevin kevin 
+Jarvis : I'm sorry, I didn't understand that. Could you please rephrase your question?
+You : my friend who lives in padra his name is kevin 
+Jarvis : Got it, your friend who lives in Padra is named Kevin. Is there anything else I can help you with?
+You : who lives in padra 
+Jarvis : You said your friend named Kevin lives in Padra. Is there anything else I can help you with?
+You : Vadodara stays lavish in Khodiyar Nagar 
+Jarvis : I'm sorry, I didn't understand that. Could you please rephrase your question?
+You : Bhavya lives in Khodiyar Nagar in Vadodara 
+Jarvis : Got it, Bhavya lives in Khodiyar Nagar in Vadodara. Is there anything else I can help you with?
+You : Saurabh Rabari lives in Tarsali 
+Jarvis : Got it, Saurabh Rabari lives in Tarsali. Is there anything else I can help you with?
+You : Sandeep Ugh lives in Vadodara Gotri 
+Jarvis : Got it, Sandeep Ugh lives in Vadodara Gotri. Is there anything else I can help you with?
+You : its sandeep only not sandeep off 
+Jarvis : Got it, Sandeep lives in Vadodara Gotri. Is there anything else I can help you with?
+You : Not Its Gotri Vadodara 
+Jarvis : Got it, Sandeep lives in Vadodara Gotri. Is there anything else I can help you with?
+You : No 
+Jarvis : Is there anything else I can help you with?
+You :  
+Jarvis : Is there anything else I can help you with?
+You : bye Bye 
+Jarvis : Goodbye! Have a nice day.
+You : Where is America located 
+Jarvis : America is located in the Northern and Western Hemispheres. It is bordered by Canada to the north and Mexico to the south.
+You : ok bye thank you 
+Jarvis : You're welcome! Goodbye and have a nice day.
+
+You : from new tab 
+Jarvis : I'm sorry, I didn't understand that. Could you please rephrase your question?
+You : from new tab 
+Jarvis : I'm sorry, I didn't understand that. Could you please rephrase your question?
+You : singer nine 
+Jarvis : The singer Nine is a South Korean singer and songwriter. She debuted in 2019 with her single "Hate You".
+You : Google 
+Jarvis : I'm sorry, I don't understand what you mean by "Google". Could you please rephrase your question?
+You : chrome new tab 
+Jarvis : Opening a new tab in Google Chrome... Done! Is there anything else I can help you with?
+You : chrome new tab 
+Jarvis : Opening a new tab in Google Chrome... Done! Is there anything else I can help you with?
+You : close tab chrome close tab 
+Jarvis : Closing the current tab in Google Chrome... Done! Is there anything else I can help you with?
+You : chrome new tab 
+Jarvis : Opening a new tab in Google Chrome... Done! Is there anything else I can help you with?
+You : chrome close tab 
+Jarvis : Closing the current tab in Google Chrome... Done! Is there anything else I can help you with?
+You : left the job 
+Jarvis : I'm sorry to hear that. Is there anything else I can help you with?
+You : Yes 
+Jarvis : What can I do for you?
+You : hi mamta barse 
+Jarvis : I'm sorry, I didn't understand that. Could you please rephrase your question?
+You : don't have to 
+Jarvis : Is there anything else I can help you with?
+You : 1 more work to be done in first innings 
+Jarvis : I'm sorry, I don't understand what you mean by "1 more work to be done in first innings". Could you please rephrase your question?
+You : and what down 
+Jarvis : I'm sorry, I didn't understand that. Could you please rephrase your question?
+You : Desperate 
+Jarvis : I'm sorry, I don't understand what you mean by "desperate". Could you please rephrase your question?
+You : did not come 
+Jarvis : I'm sorry, I don't understand what you mean by "did not come". Could you please rephrase your question?
+You : black gram 
+Jarvis : Black gram is a type of bean that is widely used in Indian cuisine. It is also known as urad dal or ulutham paruppu.
+You : come then go 
+Jarvis : I'm sorry, I didn't understand that. Could you please rephrase your question?
+You : mobile watch 
+Jarvis : Mobile watches are smartwatches that are designed to be used with a mobile device. They typically feature a touchscreen display, GPS, and other features such as fitness tracking and notifications.
+You : News 
+Jarvis : Which news would you like to hear? You can choose from local, national, or international news.
+You : chrome new tab 
+Jarvis : Opening a new tab in Google Chrome... Done! Is there anything else I can help you with?
+You : chrome new tab 
+Jarvis : Opening a new tab in Google Chrome... Done! Is there anything else I can help you with?
+You : hello javed how are you 
+Jarvis : Hello! I'm doing well, thank you. How can I help you?
+You : who is alone mouse 
+Jarvis : The Alone Mouse is a character from the popular children's book series, The Magic School Bus. The Alone Mouse is a timid mouse who is always looking for a friend.
+You : who is donald trump 
+Jarvis : Donald Trump is the 45th President of the United States. He was elected in 2016 and is currently serving his first term in office.
+You : chrome new tab 
+Jarvis : Opening a new tab in Google Chrome... Done! Is there anything else I can help you with?
+You : chrome new tab 
+Jarvis : Opening a new tab in Google Chrome... Done! Is there anything else I can help you with?
